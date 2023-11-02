@@ -1,0 +1,2 @@
+hashsig: 8dd453d692f252b3038d1280cb1053b5181f45eeb0e92dbe2f1d51efdd3002d3 ~ filescnt: 1 ~ hashalg: sha256 ~ signalg: ed25519 ~ pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= ~ signature: TlRecseshNtOI6CgwO0OSuChnjFRgCE0QLdeh4v4J+4b0LkFJdAfYXWsTKNySA+VtpsB9KJ5v+avs8TQ0Q/UAg==
+src/GitAutoCommiter.php: 84be6516c0dc656a636db8e10c06c990cef97420f9f247fb56a7d4cd107f9784 4723
