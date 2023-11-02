@@ -17,6 +17,9 @@ class GitAutoCommiter
             throw new \Exception("Not found sitePath=$sitePath");
         }
         $this->sitePath = \strtr($this->sitePath, '\\', '/');
+        if (\defined('GIT_AUTO_BRANCH')) {
+            $this->siteWorkBranch = \constant('GIT_AUTO_BRANCH');
+        }
     }
 
     public function branchCreate($repo) {
