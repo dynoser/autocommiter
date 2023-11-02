@@ -1,2 +1,2 @@
-hashsig: 8dd453d692f252b3038d1280cb1053b5181f45eeb0e92dbe2f1d51efdd3002d3 ~ filescnt: 1 ~ hashalg: sha256 ~ signalg: ed25519 ~ pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= ~ signature: TlRecseshNtOI6CgwO0OSuChnjFRgCE0QLdeh4v4J+4b0LkFJdAfYXWsTKNySA+VtpsB9KJ5v+avs8TQ0Q/UAg==
-src/GitAutoCommiter.php: 84be6516c0dc656a636db8e10c06c990cef97420f9f247fb56a7d4cd107f9784 4723
+hashsig: d5100f346ad2a1ac9ba198e86e6d140a06bfaf2407562f59c0a30be881830303 ~ filescnt: 1 ~ hashalg: sha256 ~ signalg: ed25519 ~ pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= ~ signature: i92wjZjYGMxQrecs6KI0raD8h4OptqyW4PYPU0fyOCoQ/8zn3V/gRYwOhH+k1QKYwJq+TlIDIbDhoghER80ICA==
+src/GitAutoCommiter.php: eb5a5dabf2b7d1cc6058847c2c6cc673a55515f81d96098bd70bea1dbb674030 4723
