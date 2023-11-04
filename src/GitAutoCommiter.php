@@ -116,7 +116,6 @@ GITIGNORE
         }
         
         $msg = "Auto-commit for $nameSpaceKey";
-
         foreach ($filesArr as $fileShortName => $fileFullName) {
             try {
                 $this->repository->execute('add', '--force', '--end-of-options', $fileFullName);
@@ -128,7 +127,8 @@ GITIGNORE
                 break;
             }
         }
-
-        $this->repository->commit($msg);
+        if ($this->repository->hasChanges()) {
+            $this->repository->commit($msg);
+        }
     }
 }
